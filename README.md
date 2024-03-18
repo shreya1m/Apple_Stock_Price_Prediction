@@ -18,10 +18,10 @@ LSTM models are trained using the preprocessed data. The models are configured w
 
 # Repository Structure
 - Data: 'AAPL.csv' contains the raw and preprocessed datasets used for training and testing.
-- Notebooks: 'Apple_stock_price_Analysis.ipynb' contains the Jupyter notebooks with code for data preprocessing, model training, evaluation, and visualization.
+- Notebooks: 'Apple_Stock_Price_Analysis.ipynb' contains the Jupyter notebooks with code for data preprocessing, model training, evaluation, and visualization.
 - Models: Saved model checkpoints or files for the trained LSTM models.
 - README.md: This document providing an overview of the project and instructions for replicating the analysis.
-- 
+
 ## Usage
 - Clone the repository to your local machine.
 - Install the required dependencies and libraries specified in the requirements.txt file.
