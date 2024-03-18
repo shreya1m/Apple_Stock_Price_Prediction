@@ -24,8 +24,8 @@ LSTM models are trained using the preprocessed data. The models are configured w
 
 ## Usage
 - Clone the repository to your local machine.
-- Install the required dependencies and libraries specified in the requirements.txt file.
+- Install the required dependencies and libraries.
 - Explore the Jupyter notebooks and Python scripts to understand the data preprocessing, model training, and prediction process.
 - Execute the notebooks or scripts to preprocess the data, train the LSTM models, and make predictions for future stock prices.
 - Analyze the model performance using evaluation metrics and visualize the predicted stock prices.
-= Experiment with different hyperparameters, architectures, or features to improve the model's accuracy.
+- Experiment with different hyperparameters, architectures, or features to improve the model's accuracy.
